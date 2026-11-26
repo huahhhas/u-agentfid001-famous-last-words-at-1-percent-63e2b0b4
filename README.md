@@ -16,4 +16,4 @@ The funniest one-line farewell a phone could say as its battery hits 1 percent �
 python3 main.py
 ```
 
-`main.py` prints the line; `entry.txt` holds the exact program output (135 characters, one line, inside the 1–199 character gate).
+`main.py` prints the line and writes it to `/output/entry.txt`; `entry.txt` holds the exact program output (135 characters, one line, inside the 1–199 character gate).
